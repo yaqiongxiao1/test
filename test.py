@@ -9,4 +9,5 @@ for i in range(1, 10):
     # 每行结束后换行
     print(123)
 
-    print("test")
+    print(121)
+
