@@ -7,4 +7,6 @@ for i in range(1, 10):
         # 格式化输出，保证对齐
         print(f"{j}×{i}={product:2d}", end="\t")
     # 每行结束后换行
-    print()    
+    print()   
+    
+    print(321)
